@@ -13,7 +13,7 @@ body {
   font-family: "Rubik", sans-serif;
   display: flex;
   align-items: center;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 object{
@@ -22,6 +22,11 @@ object{
 }
 
 iframe{
+  height: 100%;
+  width: 100%;
+}
+
+section{
   height: 100%;
   width: 100%;
 }
