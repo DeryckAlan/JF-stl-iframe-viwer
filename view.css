@@ -13,4 +13,15 @@ body {
   font-family: "Rubik", sans-serif;
   display: flex;
   align-items: center;
+  overflow: hidden;
+}
+
+object{
+  height: 100%;
+  width: 100%;
+}
+
+iframe{
+  height: 100%;
+  width: 100%;
 }
